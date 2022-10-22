@@ -8,4 +8,4 @@ sudo docker-compose pull
 
 sudo docker-compose up -d
 
-sudo rm -r serx-update.sh
+rm -r serx-update.sh
