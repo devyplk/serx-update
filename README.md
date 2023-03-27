@@ -85,3 +85,6 @@ Then if you want to tear down your instance, you can either turn off the server 
 ```
 sudo docker-compose down
 ```
+```
+cd /usr/local/searxng-docker
+```
